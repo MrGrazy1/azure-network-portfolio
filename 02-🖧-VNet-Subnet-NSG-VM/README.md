@@ -53,6 +53,9 @@ Resource Group: RG-Lab1
 ## 🧪 Commands Used
 
 ```bash
+ssh -i "C:\Users\<YOUR USERNAME>\Desktop\AZLabs\VM-Ubuntu-01_key.pem" azureadmin@<PUBLIC_IP>
+```
+```bash
 # SSH from Windows PowerShell (example)
 ssh -i "C:\Users\<YOUR USERNAME>\Desktop\AZLabs\VM-Ubuntu-01_key.pem" azureadmin@<PUBLIC_IP>
 
@@ -61,3 +64,5 @@ sudo apt update && sudo apt upgrade -y
 uname -r
 hostname -I
 whoami
+```
+
