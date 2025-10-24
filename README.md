@@ -6,7 +6,6 @@ Hands-on Azure networking labs I’m building from scratch: VNets, NSGs, DNS, Lo
 
 ## 📚 What this repo shows
 - Real Azure builds with screenshots and notes
-- Clean, reproducible steps
 - Growing from fundamentals → production patterns
 
 ---
