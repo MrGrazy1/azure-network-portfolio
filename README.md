@@ -11,13 +11,15 @@ Hands-on Azure networking labs I’m building from scratch: VNets, NSGs, DNS, Lo
 
 ---
 
-## 📌 Labs (in order)
-1. **[01 – VNet + NSG (foundation)](./01-📌-VNet-NSG/README.md)**
-2. 02 – Public vs Private Access + DNS (coming)
+### 🧪 Labs (in order)
+
+1. [01 – VNet + NSG (foundation)](01-🔐-VNet-NSG/README.md)
+2. [02 – VNet + Subnet + NSG + VM](02-🖧-VNet-Subnet-NSG-VM/README.md)
 3. 03 – Load Balancer (coming)
 4. 04 – Hub-and-Spoke (coming)
 5. 05 – VPN S2S (coming)
 
+
 ---
 
-*Work in progress. I add a new lab every week.*
+*Work in progress.*
