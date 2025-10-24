@@ -34,14 +34,3 @@ Resource Group: RG-Lab1
 ![NSG Rules Screenshot](./Lab1-NSGRules.png)
 
 ---
-
-## 🔁 How to Rebuild (very short)
-1. Create **RG-Lab1**
-2. Create **VNET-Lab1** (`10.0.0.0/16`) → add subnet **Subnet-FrontEnd** (`10.0.1.0/24`)
-3. Create **NSG-FrontEnd** → attach to **Subnet-FrontEnd**
-4. Add inbound rule (Action: **Deny**, Priority `200`, Any/Any) for practice
-
----
-
-## 🧹 Cleanup (optional)
-Delete resource group **RG-Lab1** to remove all resources.
