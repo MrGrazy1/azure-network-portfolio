@@ -1,4 +1,5 @@
 # 🧪 Lab 1 – Azure VNet + Subnet + NSG
+This lab demonstrates foundational Azure networking by deploying a Virtual Network, subnet, and Network Security Group, then testing traffic rules.
 
 ## ✅ What I Built
 - Created a **Virtual Network** (`10.0.0.0/16`)
